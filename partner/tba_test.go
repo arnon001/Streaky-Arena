@@ -6,8 +6,8 @@ package partner
 import (
 	"bytes"
 	"encoding/json"
-	"github.com/Team254/cheesy-arena/game"
-	"github.com/Team254/cheesy-arena/model"
+	"github.com/arnon001/Streaky-Arena/game"
+	"github.com/arnon001/Streaky-Arena/model"
 	"github.com/stretchr/testify/assert"
 	"io/ioutil"
 	"net/http"

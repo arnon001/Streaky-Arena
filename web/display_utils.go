@@ -7,7 +7,7 @@ package web
 
 import (
 	"fmt"
-	"github.com/Team254/cheesy-arena/field"
+	"github.com/arnon001/Streaky-Arena/field"
 	"net/http"
 	"net/url"
 	"regexp"

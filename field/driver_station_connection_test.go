@@ -4,7 +4,7 @@
 package field
 
 import (
-	"github.com/Team254/cheesy-arena/network"
+	"github.com/arnon001/Streaky-Arena/network"
 	"github.com/stretchr/testify/assert"
 	"net"
 	"testing"

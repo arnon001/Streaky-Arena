@@ -11,8 +11,8 @@ import (
 	"encoding/base64"
 	"encoding/json"
 	"fmt"
-	"github.com/Team254/cheesy-arena/game"
-	"github.com/Team254/cheesy-arena/model"
+	"github.com/arnon001/Streaky-Arena/game"
+	"github.com/arnon001/Streaky-Arena/model"
 	"io/ioutil"
 	"net/http"
 	"strconv"
@@ -20,7 +20,7 @@ import (
 
 const (
 	tbaBaseUrl = "https://www.thebluealliance.com"
-	tbaAuthKey = "MAApv9MCuKY9MSFkXLuzTSYBCdosboxDq8Q3ujUE2Mn8PD3Nmv64uczu5Lvy0NQ3"
+	tbaAuthKey = "WPhPQDegyucjYN7oX5qcisEKKoOtzzrurGNpf6HktVLmZK4YWADXmJl6eChXVViZ"
 	AvatarsDir = "static/img/avatars"
 )
 

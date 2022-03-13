@@ -7,8 +7,8 @@ package web
 
 import (
 	"fmt"
-	"github.com/Team254/cheesy-arena/model"
-	"github.com/Team254/cheesy-arena/tournament"
+	"github.com/arnon001/Streaky-Arena/model"
+	"github.com/arnon001/Streaky-Arena/tournament"
 	"net/http"
 	"strconv"
 	"time"

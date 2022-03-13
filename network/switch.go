@@ -9,7 +9,7 @@ import (
 	"bufio"
 	"bytes"
 	"fmt"
-	"github.com/Team254/cheesy-arena/model"
+	"github.com/arnon001/Streaky-Arena/model"
 	"net"
 	"regexp"
 	"strconv"

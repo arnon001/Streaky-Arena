@@ -11,8 +11,8 @@ import (
 	"net/http"
 	"strconv"
 
-	"github.com/Team254/cheesy-arena/game"
-	"github.com/Team254/cheesy-arena/tournament"
+	"github.com/arnon001/Streaky-Arena/game"
+	"github.com/arnon001/Streaky-Arena/tournament"
 	"github.com/gorilla/mux"
 	"github.com/jung-kurt/gofpdf"
 )
